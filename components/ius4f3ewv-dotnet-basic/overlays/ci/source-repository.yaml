@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ius4f3ewv-dotnet-basic-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/ius4f3ewv-dotnet-basic
